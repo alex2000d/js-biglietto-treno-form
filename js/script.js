@@ -10,8 +10,10 @@ btn.addEventListener('click', function (){
 
   
   let prezzo_biglietto = 0.21 * km;
+  console.log(prezzo_biglietto);
   let prezzo_finale = prezzo_totale
   let message = prezzo_finale;
+  console.log(prezzo_finale);
   if (age < 18) {
     // se il passeggero e minorenne applico uno sconto del 20%
     let sconto = prezzo_biglietto * 20 / 100;
