@@ -14,3 +14,19 @@ MILESTONE 2: Solo una volta che il milestone 1 sarà completo e funzionante allo
 Nota: Se non vi sentite particolarmente creativi, questa potrebbe essere un’implementazione da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
 Link repo live coding: https://github.com/fabriziom90/js-html-css.git
 Buon lavoro (modificato) 
+
+problema/soluzione
+
+1-dichiaro una variabile per il numero di chilometri che vuole percorrere
+2-assegno alla variabile il valore recuperato tramite una promt
+3-dichiaro una variabile per l'età del passeggero
+4-assegno alla variabile il valore recuperato tramite una seconda promt
+5-calcolo il prezzo del biglietto in base ai km 
+6-? se il passeggero e minorenne applico uno sconto del 20%
+6.1- : altrimenti non applico nessuno sconto
+7-? se il passeggero è over 65 applico uno sconto del 40%
+7.1- : altrimenti non applico nessuno sconto
+8-dichiaro una variabile per il prezzo scontato
+9-assegno alla variabile il calcolo da fare
+10-dichiaro una variabile per il prezzo finale
+11-assegno alla variabile il calcolo da fare per il prezzo finale
