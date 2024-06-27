@@ -35,7 +35,14 @@ document.getElementById('price').innerHTML = price;
 console.log(prezzo_finale);
 })
 
-
+let btn_reset = document.getElementById('reset');
+btn_reset.addEventListener('click', function (){
+   document.getElementById('name').value ='';
+   document.getElementById('km').value ='';
+   document.getElementById('age').value ='';
+   document.getElementById('message').innerHTML = '';
+   document.getElementById('price').innerHTML = '';
+})
  
 
 
